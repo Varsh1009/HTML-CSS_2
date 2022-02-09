@@ -1,0 +1,22 @@
+body{
+    font-family:  sans-serif;
+    margin: 60px;
+    margin-left: 100px;
+   
+}
+h2{
+    margin:0;
+    line-height: 0.1px;
+    font-weight: bold;
+}
+
+header{
+    text-align: center;
+   line-height: 1 px;
+}
+footer{
+    text-align:center;
+}
+h3{
+    font-weight: 100px;
+}
